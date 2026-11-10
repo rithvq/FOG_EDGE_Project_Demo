@@ -65,6 +65,5 @@ not physical one-way hardware. Novelty and performance superiority are not estab
 4. Compare **raw-data loss with a supported TRUE** against **evidence loss producing UNKNOWN**.
 5. Pause auto refresh to explain results; download JSON/CSV if needed.
 
-Refreshing does not generate readings. Devices are idle between demo runs, so
-idle periods may show UNKNOWN. See the [demo instructions](../novelty-roadmap/local-demo.md) for a fresh run.
+Refreshing does not generate readings. Devices are idle between demo runs
 
