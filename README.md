@@ -1,4 +1,4 @@
-# Dashboard Guide for Faculty
+# Dashboard Guide
 
 Five simulated devices send readings to a Fog system for checking, storage and alerts.
 
@@ -58,8 +58,6 @@ data loss. Missing evidence stays UNKNOWN rather than being treated as no incide
 
 This is a research prototype using synthetic readings and software separation,
 not physical one-way hardware. Novelty and performance superiority are not established.
-
-## What to Show During the Demo
 
 1. Open **Architecture** and follow the arrows from devices to Fog.
 2. Open **Evidence Coverage**. Choose the demo's time range and set filters to **All**.
