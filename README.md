@@ -1,3 +1,4 @@
+**#Team 14**
 # Dashboard Guide
 
 Five simulated devices send readings to a Fog system for checking, storage and alerts.
